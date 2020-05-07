@@ -5,7 +5,7 @@ Before=sensorfwd.service start-user-session.service
 
 [Service]
 Type=oneshot
-ExecStart=/bin/sleep 5
+ExecStart=/bin/sleep 10
 
 [Install]
 WantedBy=graphical.target
