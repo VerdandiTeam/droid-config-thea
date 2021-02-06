@@ -17,3 +17,5 @@ Provides: ofono-configs
 Obsoletes: ofono-configs-mer
 
 %include droid-configs-device/droid-configs.inc 
+%include patterns/patterns-sailfish-device-adaptation-thea.inc
+%include patterns/patterns-sailfish-device-configuration-thea.inc
