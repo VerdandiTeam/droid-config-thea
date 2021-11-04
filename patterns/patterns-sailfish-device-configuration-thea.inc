@@ -7,6 +7,7 @@ Requires: patterns-sailfish-device-adaptation-thea
 Requires: patterns-sailfish-cellular-apps
 # Early stages of porting benefit from these:
 Requires: patterns-sailfish-rnd
+Requires: patterns-sailfish-device-tools
 
 Requires: sailfish-content-graphics-z%{icon_res}
 
@@ -33,7 +34,6 @@ Requires: sd-utils
 
 # For all keyboard layouts
 Requires: jolla-keyboard-layout-all
-
 
 %description -n patterns-sailfish-device-configuration-thea
 Pattern with packages for thea configurations
