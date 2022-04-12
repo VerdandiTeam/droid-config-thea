@@ -88,6 +88,7 @@ Requires: geoclue-provider-hybris
 Requires: ofono-ril-plugin
 
 # Fix for calls
+Requires: pulseaudio-modules-droid-jb2q
 Requires: pulseaudio-modules-droid-glue
 
 # Flashlight
