@@ -11,7 +11,7 @@ Requires: droid-config-thea-pulseaudio-settings
 Requires: droid-config-thea-policy-settings
 Requires: droid-config-thea-preinit-plugin
 Requires: droid-config-thea-flashing
-Requires: droid-config-thea-bluez4
+Requires: droid-config-thea-bluez5
 Requires: droid-hal-version-thea
 
 # Hybris packages
