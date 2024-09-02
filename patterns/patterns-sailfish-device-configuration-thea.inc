@@ -29,11 +29,23 @@ Requires: geoclue-provider-mlsdb
 
 # Sailfish OS CSD tool for hardware testing
 # needs some configuration to get all features working
+
 # sd-utils for mounting sdcard
 Requires: sd-utils
 
 # For all keyboard layouts
 Requires: jolla-keyboard-layout-all
+
+Requires: patterns-sailfish-rnd
+Requires: patterns-sailfish-device-tools
+
+# screw sailjail
+Requires: dummy-sailjail
+
+# bloat
+Recommends: harbour-storeman
+Recommends: sailfishos-chum-gui
+Recommends: punky
 
 %description -n patterns-sailfish-device-configuration-thea
 Pattern with packages for thea configurations
