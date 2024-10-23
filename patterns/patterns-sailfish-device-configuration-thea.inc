@@ -39,9 +39,6 @@ Requires: jolla-keyboard-layout-all
 Requires: patterns-sailfish-rnd
 Requires: patterns-sailfish-device-tools
 
-# screw sailjail
-Requires: dummy-sailjail
-
 # bloat
 Recommends: harbour-storeman
 Recommends: sailfishos-chum-gui
