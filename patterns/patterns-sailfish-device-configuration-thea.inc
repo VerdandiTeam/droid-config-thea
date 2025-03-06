@@ -43,6 +43,7 @@ Requires: patterns-sailfish-device-tools
 Recommends: harbour-storeman
 Recommends: sailfishos-chum-gui
 Recommends: punky
+Recommends: verdandiupdater-sfos
 
 %description -n patterns-sailfish-device-configuration-thea
 Pattern with packages for thea configurations
