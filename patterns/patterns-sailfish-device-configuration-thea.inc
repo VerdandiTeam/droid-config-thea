@@ -42,6 +42,9 @@ Recommends: sailfishos-chum-gui
 Recommends: punky
 Recommends: verdandiupdater-sfos
 
+# Battery page
+Requires: verdanditeam-settings-battery
+
 %description -n patterns-sailfish-device-configuration-thea
 Pattern with packages for thea configurations
 
